@@ -227,7 +227,7 @@ h3 {
 
 /* ENERGY BAR BACKGROUND */
 .progress {
-	background: rgba(1, 1, 1, 0.5);
+	background: #ede4f0;
 	color: #000000 !important;
 	border-radius: 0px !important
 }
@@ -235,7 +235,7 @@ h3 {
 
 /* ENERGY BAR COLOR */
 .progress-bar {
-	background: rgba(1, 1, 1, 0.5);
+	background: #d2c5d6;
 	color: #000000 !important;
 	border-radius: 0px !important
 }
