@@ -360,7 +360,7 @@ td.right {
 
 .cave-grid,
 .mound-grid {
-	background: #a2b348;
+	background: #c9c0cc;
 	border: none !important;
 	border-radius: 0px !important
 }
@@ -693,7 +693,7 @@ a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
 
 
 .mound-grid img /* Mound(s) */ {
-	background: url("IMAGE URL");
+	background: url("https://www.nasa.gov/wp-content/uploads/2025/03/keyhole-final-2.png");
 	width: 0;
 	height: 0;
 	padding-top: 80px;
