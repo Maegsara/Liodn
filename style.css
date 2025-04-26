@@ -676,11 +676,18 @@ div.cave-grid>img /* Pregnant Lionesses */ {
 	content: url('https://www.nasa.gov/wp-content/uploads/2025/03/keyhole-final-2.png') !important
 }
 
-
+/*LunarLavaTube*/
 a[href$="464942"]>div.cave-grid>img {
 	content: url('https://www.nasa.gov/wp-content/uploads/2025/03/keyhole-final-2.png') !important
 }
-
+/*Witchmakers*/
+a[href$="466244"]>div.cave-grid>img {
+	content: url('https://www.nasa.gov/wp-content/uploads/2025/03/keyhole-final-2.png') !important
+}
+/*Fodder Den*/
+a[href$="470041"]>div.cave-grid>img {
+	content: url('https://www.nasa.gov/wp-content/uploads/2025/03/keyhole-final-2.png') !important
+}
 
 a[href$="lionoverview.php?id=PLAYER ID"]>div.cave-grid>img /* Pride Overview */ {
 	content: url('https://www.nasa.gov/wp-content/uploads/2025/03/keyhole-final-2.png') !important
