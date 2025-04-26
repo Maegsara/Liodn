@@ -673,7 +673,7 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 
 
 div.cave-grid>img /* Pregnant Lionesses */ {
-	content: url('IMAGE URL') !important
+	content: url('https://www.nasa.gov/wp-content/uploads/2025/03/keyhole-final-2.png') !important
 }
 
 
@@ -688,7 +688,7 @@ a[href$="lionoverview.php?id=PLAYER ID"]>div.cave-grid>img /* Pride Overview */ 
 
 
 a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
-	content: url('IMAGE URL') !important
+	content: url('https://www.nasa.gov/wp-content/uploads/2025/03/keyhole-final-2.png') !important
 }
 
 
