@@ -28,7 +28,7 @@ body {
 
 /* RIGHT SIDE */
 .container.main {
-	background: #c9c0cc;
+	background: #3d3640;
 	border: none;
 	box-shadow: none;
 	border-radius: 5px
@@ -46,7 +46,7 @@ body {
 
 
 .topbar {
-	background: #c9c0cc;
+	background: #3d3640;
 	border: none;
 	border-top: none;
 	color: #955399;
@@ -58,7 +58,7 @@ body {
 
 
 .navbar {
-	background: #c9c0cc;
+	background: #3d3640;
 	border-bottom: none;
 	color: #955399;
 	border-radius: 0px
