@@ -19,7 +19,7 @@ body {
 	background: url('https://www.nasa.gov/wp-content/uploads/2025/03/keyhole-final-2.png') center center fixed;
 	background-size: 100%;
 	font-family: 'FONT NAME';
-	color: #b276b5;
+	color: #955399;
 }
 
 
@@ -49,7 +49,7 @@ body {
 	background: #c9c0cc;
 	border: none;
 	border-top: none;
-	color: #b276b5;
+	color: #955399;
 	border-radius: 0px;
 }
 
@@ -60,7 +60,7 @@ body {
 .navbar {
 	background: #c9c0cc;
 	border-bottom: none;
-	color: #b276b5;
+	color: #955399;
 	border-radius: 0px
 }
 
@@ -69,7 +69,7 @@ body {
 
 
 .navbar li a {
-	color: #b276b5 !important
+	color: #955399 !important
 }
 
 
@@ -79,7 +79,7 @@ body {
 .navbar li a:hover {
 	background: rgba(1, 1, 1, 0.5) !important;
 	border-bottom: none;
-	color: #b276b5 !important;
+	color: #955399 !important;
 	border-radius: 0px
 }
 
@@ -98,7 +98,7 @@ body {
 
 
 .breadcrumb .active {
-	color: #b276b5
+	color: #955399
 }
 
 
@@ -107,7 +107,7 @@ body {
 
 .breadcrumb::after {
         content: "Template by Katie (#106445)";
-        color: #b276b5;
+        color: #955399;
         position: absolute;
         right: 13%; /* (This may need adjusting) */
         z-index: 100
@@ -142,7 +142,7 @@ input.floatright, input.floatright:hover {
 	background: rgba(1, 1, 1, 0.5) !important;
         border: none !important;
 	border-radius: 0px;
-	color: #b276b5 !important;    
+	color: #955399 !important;    
 }
 
 
@@ -154,7 +154,7 @@ button.button, button.button:hover {
         border: none !important;
 	border-radius: 0px;
         text-shadow: none !important;
-	color: #b276b5 !important
+	color: #955399 !important
 }
 
 
@@ -166,7 +166,7 @@ button.button, button.button:hover {
 .alert-danger {
 	background: rgba(1, 1, 1, 0.5) !important;
 	border: none;
-	color: #b276b5;
+	color: #955399;
 	border-radius: 0px !important
 }
 
@@ -175,7 +175,7 @@ button.button, button.button:hover {
 
 
 h1 {
-	color: #b276b5;
+	color: #955399;
 	font-size: 90px;
 	text-align: center;
         font-family: 'FONT NAME'
@@ -188,7 +188,7 @@ h1 {
 
 
 h2 {
-	color: #b276b5;
+	color: #955399;
 	font-size: 24px;
 	text-align: center
 }
@@ -200,7 +200,7 @@ h2 {
 
 
 h3 {
-	color: #b276b5 !important;
+	color: #955399 !important;
 	font-size: 14px !important
 }
 
@@ -209,7 +209,7 @@ h3 {
 
 
 .sidebar h3 {
-	color: #b276b5 !important;
+	color: #955399 !important;
         font-size: 26px !important;
         font-family: 'FONT NAME'
 }
@@ -220,7 +220,7 @@ h3 {
 	background: rgba(1, 1, 1, 0.5) !important;
 	box-shadow: none !important;
 	border: none !important;
-	color: #b276b5 !important;
+	color: #955399 !important;
 	border-radius: 0px
 }
 
@@ -228,7 +228,7 @@ h3 {
 /* ENERGY BAR BACKGROUND */
 .progress {
 	background: #ede4f0;
-	color: #b276b5 !important;
+	color: #955399 !important;
 	border-radius: 0px !important
 }
 
@@ -236,14 +236,14 @@ h3 {
 /* ENERGY BAR COLOR */
 .progress-bar {
 	background: #d2c5d6;
-	color: #b276b5 !important;
+	color: #955399 !important;
 	border-radius: 0px !important
 }
 
 
 /* ENERGY BAR TEXT */
 .progress div {
-	color: #b276b5 !important
+	color: #955399 !important
 }
 
 
@@ -252,27 +252,27 @@ h3 {
 
 .s-chat-message:nth-child(even) /* Even Numbered Messages */ {
 	background: rgba(1, 1, 1, 0.5) !important;
-        color: #b276b5 !important;
+        color: #955399 !important;
 	border: none !important
 }
 
 
 .s-chat-message:nth-child(odd) /* Odd Numbered Messages */ {
 	background: rgba(1, 1, 1, 0.5) !important;
-        color: #b276b5 !important;
+        color: #955399 !important;
 	border: none !important
 }
 
 
 .s-chat-message__pinned /* Pinned Message */ {
 	background: rgba(1, 1, 1, 0.5) !important;
-        color: #b276b5 !important;
+        color: #955399 !important;
 	border: none !important
 }
 
 
 .s-chat-message_timestamp /* Timestamps */ {
-	color: #b276b5 !important;
+	color: #955399 !important;
 }
 
 
@@ -283,7 +283,7 @@ div#chatMessageContainer {
 
 button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 	background: rgba(1, 1, 1, 0.5) !important;
-        color: #b276b5 !important;
+        color: #955399 !important;
 	border: none !important
 }
 
@@ -313,7 +313,7 @@ button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 .bottom,
 th {
 	background: rgba(1, 1, 1, 0.5) !important;
-	color: #b276b5 !important;
+	color: #955399 !important;
 	border-radius: 0px
 }
 
@@ -371,7 +371,7 @@ td.right {
 
 .feature {
 	background: rgba(1, 1, 1, 0.5) !important;
-	color: #b276b5 !important;
+	color: #955399 !important;
 	border: 1px solid #000000 !important;
 	border-radius: 0px !important
 }
@@ -406,7 +406,7 @@ textarea {
 	background: rgba(1, 1, 1, 0.5) !important;
 	border: none !important;
 	border-radius: 0px !important;
-	color: #b276b5 !important;
+	color: #955399 !important;
 	box-shadow: none !important;
 	text-shadow: none !important
 }
@@ -417,7 +417,7 @@ textarea {
 
 .item-header {
 	background: rgba(1, 1, 1, 0.5) !important;
-	color: #b276b5  !important;
+	color: #955399  !important;
 	border-radius: 0px !important;
 }
 
@@ -446,7 +446,7 @@ div.slider.round::before /* Circle Part */ {
 
 
 div.container.footer.center.white.visible-lg.visible-md.visible-sm, div.container.footer.center.white.visible-lg.visible-md.visible-sm a {
-        color: #b276b5 !important;
+        color: #955399 !important;
         text-shadow: none !important
 }
 
@@ -488,7 +488,7 @@ a:hover {
 .smallbox {
 	float: left;
 	background: rgba(1, 1, 1, 0.5);
-	color: #b276b5;
+	color: #955399;
 	padding: 10px;
 	border: none;
 	border-radius: 0px;
@@ -502,7 +502,7 @@ a:hover {
 .mediumbox {
 	float: left;
 	background: rgba(1, 1, 1, 0.5);
-	color: #b276b5;
+	color: #955399;
 	padding: 10px;
 	border: none;
 	border-radius: 0px;
@@ -516,7 +516,7 @@ a:hover {
 .largebox {
 	float: left;
 	background: rgba(1, 1, 1, 0.5);
-	color: #b276b5;
+	color: #955399;
 	padding: 10px;
 	border: none;
 	border-radius: 0px;
@@ -533,7 +533,7 @@ a:hover {
 .smallhoverbox {
 	float: left;
 	background: rgba(1, 1, 1, 0.5);
-	color: #b276b5;
+	color: #955399;
 	padding: 10px;
 	border: none;
 	border-radius: 0px;
@@ -554,7 +554,7 @@ a:hover {
 .mediumhoverbox {
 	float: left;
 	background: rgba(1, 1, 1, 0.5);
-	color: #b276b5;
+	color: #955399;
 	padding: 10px;
 	border: none;
 	border-radius: 0px;
@@ -575,7 +575,7 @@ a:hover {
 .largehoverbox {
 	float: left;
 	background: rgba(1, 1, 1, 0.5);
-	color: #b276b5;
+	color: #955399;
 	padding: 10px;
 	border: none;
 	border-radius: 0px;
