@@ -19,7 +19,8 @@ body {
 	background: url('https://cdnb.artstation.com/p/assets/images/images/042/597/455/large/alansmithee-art-still.jpg?1634926804') center center fixed;
 	background-size: 100%;
 	font-family: 'FONT NAME';
-	color: #ffb300;
+	color: #000000;
+	background-attachment: fixed;
 }
 
 
@@ -49,7 +50,7 @@ body {
 	background: #ffb300;
 	border: none;
 	border-top: none;
-	color: #955399;
+	color: #000000;
 	border-radius: 0px;
 }
 
@@ -60,7 +61,7 @@ body {
 .navbar {
 	background: #ff00e1;
 	border-bottom: none;
-	color: #955399;
+	color: #000000;
 	border-radius: 0px
 }
 
@@ -69,7 +70,7 @@ body {
 
 
 .navbar li a {
-	color: #955399 !important
+	color: #000000 !important;
 }
 
 
@@ -79,7 +80,7 @@ body {
 .navbar li a:hover {
 	background: rgba(1, 1, 1, 0.5) !important;
 	border-bottom: none;
-	color: #955399 !important;
+	color: #000000 !important;
 	border-radius: 0px
 }
 
@@ -98,7 +99,7 @@ body {
 
 
 .breadcrumb .active {
-	color: #955399
+	color: #000000;
 }
 
 
@@ -554,7 +555,7 @@ a:hover {
 .mediumhoverbox {
 	float: left;
 	background: rgba(1, 1, 1, 0.5);
-	color: #955399;
+	color: #000000;
 	padding: 10px;
 	border: none;
 	border-radius: 0px;
@@ -575,7 +576,7 @@ a:hover {
 .largehoverbox {
 	float: left;
 	background: rgba(1, 1, 1, 0.5);
-	color: #955399;
+	color: #000000;
 	padding: 10px;
 	border: none;
 	border-radius: 0px;
