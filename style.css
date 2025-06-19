@@ -19,7 +19,7 @@ body {
 	background: url('https://cdnb.artstation.com/p/assets/images/images/042/597/455/large/alansmithee-art-still.jpg?1634926804') center center fixed;
 	background-size: 100%;
 	font-family: 'FONT NAME';
-	color: #48284a;
+	color: #ffb300;
 }
 
 
@@ -46,7 +46,7 @@ body {
 
 
 .topbar {
-	background: #3d3640;
+	background: #ffb300;
 	border: none;
 	border-top: none;
 	color: #955399;
@@ -227,7 +227,7 @@ h3 {
 
 /* ENERGY BAR BACKGROUND */
 .progress {
-	background: #ede4f0;
+	background: #ffb300;
 	color: #955399 !important;
 	border-radius: 0px !important
 }
