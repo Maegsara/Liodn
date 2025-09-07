@@ -30,7 +30,7 @@ body {
 /* RIGHT SIDE */
 .container.main {
 	background-color: none;
-	border: none;
+	border: 5px solid rgb(255 0 0);
 	box-shadow: none;
 	border-radius: 5px;
 }
@@ -729,3 +729,4 @@ a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
 			width: 790px;
 		}
 	}
+
