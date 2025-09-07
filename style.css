@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-  background: url('https://upload.wikimedia.org/wikipedia/commons/9/9a/Cape_may.jpg') center center fixed;
+  background: url('https://upload.wikimedia.org/wikipedia/commons/9/9a/Cape_may.jpg') no-repeat center center fixed;
   background-size: 100%;
   font-family: 'lobster-two-regular';
   color: #000000
@@ -10,6 +10,7 @@ body > div.container.main > div > div.col-md-9.col-xs-12 > center {
     flex-wrap: nowrap; 
     justify-content: space-between; 
     background: rgb(255 0 0 / 25%) !important;
+
 
 
 
