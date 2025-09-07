@@ -5,7 +5,6 @@ body {
   background-size: 100%;
   font-family: 'Lobster Two';
   color: #000000
-  alignment: center;
 }
 body > div.container.main > div > div.col-md-9.col-xs-12 > center {
     flex-wrap: nowrap; 
@@ -15,6 +14,7 @@ body > div.container.main > div > div.col-md-9.col-xs-12 > center {
 body > div.container.main > div > div.row {
     background: blue !important;
 } 
+
 
 
 
