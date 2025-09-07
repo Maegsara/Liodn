@@ -3,13 +3,14 @@
 body {
   background: url('https://upload.wikimedia.org/wikipedia/commons/9/9a/Cape_may.jpg') center center fixed;
   background-size: 100%;
-  font-family: 'lobster-two-regular-italic';
+  font-family: 'lobster-two-regular';
   color: #000000
 }
 
 div.container.main {
   background: rbga(255 0 0 / 25%)!important;
 }
+
 
 
 
