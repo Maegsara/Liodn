@@ -3,7 +3,7 @@
 body {
   background: url('https://upload.wikimedia.org/wikipedia/commons/9/9a/Cape_may.jpg') no-repeat center center fixed;
   background-size: 100%;
-  font-family: 'lobster-two-regular';
+  font-family: 'Lobster Two';
   color: #000000
 }
 body > div.container.main > div > div.col-md-9.col-xs-12 > center {
@@ -14,6 +14,7 @@ body > div.container.main > div > div.col-md-9.col-xs-12 > center {
 body > div.container.main {
     background: rbga(0 0 0 0) !important;
 }
+
 
 
 
