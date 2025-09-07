@@ -3,13 +3,14 @@
 body {
   background: url('https://upload.wikimedia.org/wikipedia/commons/9/9a/Cape_may.jpg') center center fixed;
   background-size: 100%;
-  font-family: 'lobster-two-regular';
+  font-family: 'lobster-two-regular-italic';
   color: #000000
 }
 
 commentBox {
   border: 5px solid rbg(255 0 0);
 }
+
 
 
 
