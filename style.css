@@ -6,10 +6,11 @@ body {
   font-family: 'lobster-two-regular';
   color: #000000
 }
+body > div.container.main > div > div.col-md-9.col-xs-12 > center {
+    flex-wrap: nowrap; 
+    justify-content: space-between; 
+    background: #c62525 !important;
 
-div.container.main {
-  background: #c62525 !important;
-}
 
 
 
