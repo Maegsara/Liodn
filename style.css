@@ -9,7 +9,8 @@ body {
 body > div.container.main > div > div.col-md-9.col-xs-12 > center {
     flex-wrap: nowrap; 
     justify-content: space-between; 
-    background: !important;
+    background: url('') !important;
+
 
 
 
