@@ -14,6 +14,10 @@ body > div.container.main > div > div.col-md-9.col-xs-12 > center {
 body > div.container.main {
     background: rbga(0 0 0 0) !important;
 }
+body > div.row {
+  background: rbga(0 0 0 0) !important;
+}
+
 
 
 
