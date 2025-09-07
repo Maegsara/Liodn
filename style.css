@@ -6,8 +6,9 @@ body {
 }
 
 commentBox {
-  border: 5px rbg(255 0 0);
+  border: solid 5px rbg(255 0 0);
 }
+
 
 
 
