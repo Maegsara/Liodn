@@ -26,6 +26,9 @@ body {
 
 /* MAIN PANEL */
 
+commentBox {
+	background-color: rgb(255 0 0 / 30%);
+}
 
 /* RIGHT SIDE */
 .container.main {
@@ -729,4 +732,5 @@ a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
 			width: 790px;
 		}
 	}
+
 
