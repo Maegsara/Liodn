@@ -16,18 +16,19 @@ body {
 /*    justify-content: space-between;
 /*    background: transparent !important;
 	
+/* RIGHT SIDE */
 .container.main {
 	background: rgba(166, 158, 151, 0.35);
 	border: none;
 	box-shadow: none;
 	border-radius: 0px
 }
-	
+
+
+/* LEFT SIDE */
 .col-md-9 {
-	background: rgba(120 0 0 0.5) !important;
-	border: none;
-	box-shadow: none;
-	border-radius: 0px
+	background: none;
+        border-right: none
 }
 
 
