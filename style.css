@@ -10,11 +10,12 @@ body > div.container.main > div > div.col-md-9.col-xs-12 {
     flex-wrap: nowrap; 
     justify-content: space-between;
     background: #4caf500a !important;
-    padding: 0px !important;
+    padding: 10px !important;
 body > div.container.main {
     flex-wrap: nowrap; 
     justify-content: space-between;
     background: #4caf500a !important;
+
 
 
 
