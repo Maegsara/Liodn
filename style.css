@@ -15,9 +15,10 @@ body > div.container.main > div > div.row {
     background: blue !important;
 } 
 .customiser-inner-frame {
-	background: rgba(199, 205, 201, 0.0);
-	color: #243C3C;
+	background: rgba(0, 0, 0, 0.0);
+	color: #ffffff;
 }
+
 
 
 
