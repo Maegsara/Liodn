@@ -15,11 +15,19 @@ body {
 /*    flex-wrap: nowrap; 
 /*    justify-content: space-between;
 /*    background: transparent !important;
-
+	
+.container.main {
+	background: rgba(166, 158, 151, 0.35);
+	border: none;
+	box-shadow: none;
+	border-radius: 0px
+}
+	
 .col-md-9 {
 	background: rgba(120 0 0 0.5) !important;
 	border-right: none
 }
+
 
 
 
