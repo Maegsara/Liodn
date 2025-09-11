@@ -14,9 +14,10 @@ body > div.container.main > div > div.col-md-9.col-xs-12 > center {
 body > div.container.main > div > div.row {
     background: blue !important;
 } 
-#modalClaimBG{
-  background: rgba(0, 0, 0, 075);
+:modal{
+  background: rgba(0, 0, 0, 0.25);
 }
+
 
 
 
