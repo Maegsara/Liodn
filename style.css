@@ -6,15 +6,18 @@ body {
   font-family: 'Lobster Two';
   color: #000000;
 }
-body > div.container.main > div > div.col-md-9.col-xs-12 {
-    flex-wrap: nowrap; 
-    justify-content: space-between;
+/* body > div.container.main > div > div.col-md-9.col-xs-12 {
+/*    flex-wrap: nowrap; 
+/*    justify-content: space-between;
+/*    background: transparent !important;
+/*    padding: 10px !important;
+/* body > div.container.main {
+/*    flex-wrap: nowrap; 
+/*    justify-content: space-between;
+/*    background: transparent !important;
+.container.main{ 
     background: transparent !important;
-    padding: 10px !important;
-body > div.container.main {
-    flex-wrap: nowrap; 
-    justify-content: space-between;
-    background: transparent !important;
+}
 
 
 
