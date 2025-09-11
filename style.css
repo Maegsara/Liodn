@@ -9,12 +9,13 @@ body {
 body > div.container.main > div > div.col-md-9.col-xs-12 {
     flex-wrap: nowrap; 
     justify-content: space-between;
-    opacity: 0.5 !important;
+    opacity: 0.1 !important;
     padding: 10px !important;
 body > div.container.main {
     flex-wrap: nowrap; 
     justify-content: space-between;
     background: transparent !important;
+
 
 
 
