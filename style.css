@@ -14,9 +14,11 @@ body > div.container.main > div > div.col-md-9.col-xs-12 > center {
 body > div.container.main > div > div.row {
     background: blue !important;
 } 
-:modal{
-  background: rgba(0, 0, 0, 0.25);
+.customiser-inner-frame {
+	background: rgba(199, 205, 201, 0.0);
+	color: #243C3C;
 }
+
 
 
 
