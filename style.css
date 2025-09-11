@@ -10,6 +10,10 @@ body > div.container.main > div > div.col-md-9.col-xs-12 > center {
     flex-wrap: nowrap; 
     justify-content: space-between;
     background: rgba(175,25,175,0.15) !important;
+body > div.container.main {
+    flex-wrap: nowrap; 
+    justify-content: space-between;
+    background: rgba(175,25,175,0.15) !important;
 
 
 
