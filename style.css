@@ -14,12 +14,13 @@ body > div.container.main > div > div.col-md-9.col-xs-12 > center {
 body > div.container.main > div > div.row {
     background: blue !important;
 } 
-.panel {
-background: rgba(10,10,10,0.5) !important;
+.container.main{
+background: rgba(10,10,10,0.25) !important;
 border: 1px solid #ff7954 !important;
 border-radius: 5px;
 box-shadow: none !important;
 }
+
 
 
 
