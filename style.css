@@ -16,7 +16,11 @@ body {
 /*    justify-content: space-between;
 /*    background: transparent !important;
 .container.main{ 
-    background: transparent !important;
+    background: none !important;
+}
+.col-md-9 {
+	background: none;
+        border-right: none
 }
 
 
