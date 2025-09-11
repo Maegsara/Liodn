@@ -9,12 +9,13 @@ body {
 body > div.container.main > div > div.col-md-9.col-xs-12 {
     flex-wrap: nowrap; 
     justify-content: space-between;
-    background: url('https://upload.wikimedia.org/wikipedia/commons/9/9a/Cape_may.jpg') !important;
+    opacity: 0.5 !important;
     padding: 10px !important;
 body > div.container.main {
     flex-wrap: nowrap; 
     justify-content: space-between;
     background: #4caf500a !important;
+
 
 
 
