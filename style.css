@@ -25,7 +25,7 @@ background-size: cover;
 position: fixed;
 display: block;
 height:200px;
-width:200px;
+width:auto;
 right: 10px;
 bottom: 0rem;
 z-index: 100;
@@ -72,6 +72,7 @@ a:hover, a:active {
 title {
 	font-size: 48px;
 }
+
 
 
 
