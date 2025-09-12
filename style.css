@@ -7,17 +7,8 @@ body {
   font-family: 'Lobster Two';
   color: #000000;
 }
-/* body > div.container.main > div > div.col-md-9.col-xs-12 {
-/*    flex-wrap: nowrap; 
-/*    justify-content: space-between;
-/*    background: transparent !important;
-/*    padding: 10px !important;
-/* body > div.container.main {
-/*    flex-wrap: nowrap; 
-/*    justify-content: space-between;
-/*    background: transparent !important;
 	
-/* RIGHT SIDE */
+/*-=-=-=- RIGHT SIDE
 .container.main {
 	background: rgba(166, 158, 151, 0.45);
 	border: none;
@@ -26,7 +17,7 @@ body {
 }
 
 
-/* LEFT SIDE */
+/*-=-=-=- LEFT SIDE
 .col-md-9 {
 	background: rgba(166, 158, 151, 0.45);
 }
@@ -37,7 +28,7 @@ p {
 
 a:link {
   color: green;
-  background-color: white;
+  background-color: none;
   text-decoration: none;
 }
 
@@ -48,7 +39,7 @@ a:visited {
 }
 
 a:hover {
-  color: red;
+  color: black;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -60,12 +51,13 @@ a:active {
 }
 
 a:hover, a:active {
-  background-color: blue;
+  background-color: rgba (255 105 105 0.4);
 }
 
 title {
 	font-size: 48px;
 }
+
 
 
 
