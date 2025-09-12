@@ -17,7 +17,7 @@ body {
 	border-radius: 0px	
 	::after {
     content: "";
-	background-image: url('https://hollowknight.wiki/w/Massive_Moss_Charger#/media/File:B_Massive_Moss_Charger.png');
+	background-image: url('https://static.lioden.com/img/layout/logo-full-2.png');
     background-size: cover;
     position: fixed;
     display: block;
@@ -70,6 +70,7 @@ a:hover, a:active {
 title {
 	font-size: 48px;
 }
+
 
 
 
