@@ -10,7 +10,7 @@ body {
 	
 /*-=-=-=- RIGHT SIDE
 .container.main {
-	background: rgba(166, 158, 151, 0.45);
+	background: rgba(166, 158, 151, 0.45)!important;
 	border: none;
 	box-shadow: none;
 	border-radius: 0px	
@@ -71,4 +71,5 @@ a:hover, a:active {
 title {
 	font-size: 48px;
 }
+
 
