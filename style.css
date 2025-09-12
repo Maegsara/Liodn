@@ -18,7 +18,7 @@ body {
 	
 /* RIGHT SIDE */
 .container.main {
-	background: rgba(166, 158, 151, 0.35);
+	background: rgba(166, 158, 151, 0);
 	border: none;
 	box-shadow: none;
 	border-radius: 0px
@@ -30,6 +30,7 @@ body {
 	background: none;
         border-right: none
 }
+
 
 
 
