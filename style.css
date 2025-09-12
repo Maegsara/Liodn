@@ -18,7 +18,7 @@ body {
 }
 container.main::after {
     content: "";
-	background-image: url('https://static.lioden.com/img/layout/logo-full-2.png');
+	background-image: url('https://cherryteeth.neocities.org/pagedolls/adopted/staticwind_howl.gif');
     background-size: cover;
     position: fixed;
     display: block;
@@ -71,6 +71,7 @@ a:hover, a:active {
 title {
 	font-size: 48px;
 }
+
 
 
 
