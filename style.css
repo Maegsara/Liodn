@@ -15,7 +15,8 @@ body {
 	border: none;
 	box-shadow: none;
 	border-radius: 0px	
-	::after {
+}
+container.main::after {
     content: "";
 	background-image: url('https://static.lioden.com/img/layout/logo-full-2.png');
     background-size: cover;
@@ -27,7 +28,7 @@ body {
     bottom: 1rem;
     z-index: 1;
     pointer-events: none;
-    }
+    
 }
 
 /*-=-=-=- LEFT SIDE */
@@ -70,6 +71,7 @@ a:hover, a:active {
 title {
 	font-size: 48px;
 }
+
 
 
 
