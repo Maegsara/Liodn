@@ -16,6 +16,20 @@ body {
 	border-radius: 0px	
 }
 
+.container.main::after {
+	 content: "";
+    background-image: url('https://cdn.wikimg.net/en/hkwiki/images/6/63/B_Massive_Moss_Charger.png');
+    background-size: cover;
+    position: fixed;
+    display: block;
+    height: 50%;
+    width: auto;
+    right: -30px;
+    bottom: 0rem;
+    z-index: 1;
+    pointer-events: none;
+}
+
 
 /*-=-=-=- LEFT SIDE
 .col-md-9 {
@@ -56,18 +70,4 @@ a:hover, a:active {
 
 title {
 	font-size: 48px;
-}
-
-.container.main::after {
-	 content: "";
-    background-image: url('https://cdn.wikimg.net/en/hkwiki/images/6/63/B_Massive_Moss_Charger.png');
-    background-size: cover;
-    position: fixed;
-    display: block;
-    height: 50%;
-    width: auto;
-    right: -30px;
-    bottom: 0rem;
-    z-index: 1;
-    pointer-events: none;
 }
