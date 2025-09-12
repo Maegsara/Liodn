@@ -9,16 +9,14 @@ body {
 }
 	
 /*-=-=-=- RIGHT SIDE
+
 .container.main {
 	background: rgba(166, 158, 151, 0.45)!important;
 	border: none;
 	box-shadow: none;
 	border-radius: 0px	
-}
-
-.container.main::after {
-	 content: "";
-    background: rgba(166, 158, 151, 0.45)!important;
+	::after {
+    content: "";
 	background-image: url('https://hollowknight.wiki/w/Massive_Moss_Charger#/media/File:B_Massive_Moss_Charger.png');
     background-size: cover;
     position: fixed;
@@ -26,11 +24,11 @@ body {
 	width: 200px;
     height: 100px;
     right: -30px;
-    bottom: 0rem;
+    bottom: 1rem;
     z-index: 1;
     pointer-events: none;
+    }
 }
-
 
 /*-=-=-=- LEFT SIDE
 .col-md-9 {
@@ -72,6 +70,7 @@ a:hover, a:active {
 title {
 	font-size: 48px;
 }
+
 
 
 
