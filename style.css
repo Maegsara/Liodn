@@ -19,16 +19,17 @@ body {
 /* RIGHT SIDE */
 .container.main {
 	background: rgba(166, 158, 151, 0.15);
+	background-color: black;
 	border: none;
 	box-shadow: none;
-	border-radius: 0px
+	border-radius: 0px	
 }
 
 
 /* LEFT SIDE */
 .col-md-9 {
 	background: none;
-        border-right: none
+	background-color: black;
 }
 
 p {
@@ -62,6 +63,7 @@ a:active {
 a:hover, a:active {
   background-color: blue;
 }
+
 
 
 
