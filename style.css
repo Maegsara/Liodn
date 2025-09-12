@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-  background: url('https://upload.wikimedia.org/wikipedia/commons/9/9a/Cape_may.jpg') no-repeat center center fixed;
+  background: url('https://images.pexels.com/photos/14681530/pexels-photo-14681530.jpeg?_gl=1*1u6vafr*_ga*MjEzNTk3MjU2NC4xNzU3NjQzMDQy*_ga_8JE65Q40S6*czE3NTc2NDMwNDEkbzEkZzEkdDE3NTc2NDMzMTgkajYwJGwwJGgw') no-repeat center center fixed;
   background-size: 100%;
   font-family: 'Lobster Two';
   color: #000000;
@@ -61,6 +61,7 @@ a:active {
 a:hover, a:active {
   background-color: blue;
 }
+
 
 
 
