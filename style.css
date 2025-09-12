@@ -25,9 +25,9 @@ background-size: cover;
 position: fixed;
 display: block;
 height:200px;
-width:auto;
+width:180px;
 right: 10px;
-bottom: 0rem;
+bottom: 1rem;
 z-index: 100;
 pointer-events:none;
 }
@@ -72,6 +72,7 @@ a:hover, a:active {
 title {
 	font-size: 48px;
 }
+
 
 
 
