@@ -16,19 +16,20 @@ body {
 	box-shadow: none;
 	border-radius: 0px	
 }
-container.main::after {
-    content: "";
-	background-image: url('https://cherryteeth.neocities.org/pagedolls/adopted/staticwind_howl.gif');
-    background-size: cover;
-    position: fixed;
-    display: block;
-	width: 200px;
-    height: 200px;
-    right: 10px;
-    bottom: 1rem;
-    z-index: 100;
-    pointer-events: none;
-    
+
+/* pagedoll */
+.container.main::after {
+content: "";
+background-image: url('https://cherryteeth.neocities.org/pagedolls/adopted/staticwind_howl.gif');
+background-size: cover;
+position: fixed;
+display: block;
+height:200px;
+width:200px;
+right: 10px;
+bottom: 0rem;
+z-index: 100;
+pointer-events:none;
 }
 
 /*-=-=-=- LEFT SIDE */
@@ -71,6 +72,7 @@ a:hover, a:active {
 title {
 	font-size: 48px;
 }
+
 
 
 
