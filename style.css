@@ -2,6 +2,7 @@
 
 body {
   background: url('https://images.pexels.com/photos/14681530/pexels-photo-14681530.jpeg?_gl=1*1u6vafr*_ga*MjEzNTk3MjU2NC4xNzU3NjQzMDQy*_ga_8JE65Q40S6*czE3NTc2NDMwNDEkbzEkZzEkdDE3NTc2NDMzMTgkajYwJGwwJGgw') no-repeat center center fixed;
+  background-color: #bf5600;
   background-size: auto 100%;
   font-family: 'Lobster Two';
   color: #000000;
@@ -65,6 +66,7 @@ a:hover, a:active {
 title {
 	font-size: 48px;
 }
+
 
 
 
