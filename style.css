@@ -74,10 +74,10 @@ title {
 	font-size: 48px;
 }
 
-.navbar-brand visible-lg visible-md{
-	background: url('https://raw.githubusercontent.com/Maegsara/Liodn/refs/heads/main/tpride.png');
+.navbar-header > a > img {
+content: url('');
+width: 200px;
 }
-
 
 
 
