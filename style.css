@@ -12,7 +12,7 @@ body {
 /*-=-=-=- RIGHT SIDE */
 
 .container.main {
-	background: rgba(0, 0, 0, 0.15)!important;
+	background: rgba(0, 0, 0, 0.35)!important;
 	border: none;
 	box-shadow: none;
 	border-radius: 0px	
@@ -78,6 +78,7 @@ title {
 content: url('https://raw.githubusercontent.com/Maegsara/Liodn/refs/heads/main/tpride.png');
 width: 100px;
 }
+
 
 
 
