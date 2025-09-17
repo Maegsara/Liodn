@@ -2,7 +2,7 @@
 
 body {
   /* background: url('https://images.pexels.com/photos/14681530/pexels-photo-14681530.jpeg?_gl=1*1u6vafr*_ga*MjEzNTk3MjU2NC4xNzU3NjQzMDQy*_ga_8JE65Q40S6*czE3NTc2NDMwNDEkbzEkZzEkdDE3NTc2NDMzMTgkajYwJGwwJGgw') no-repeat center center fixed; */
-  background: url('https://raw.githubusercontent.com/Maegsara/Liodn/refs/heads/main/20250917153037_1crop.jpg') center center fixed;
+  background: url('https://raw.githubusercontent.com/Maegsara/Liodn/refs/heads/main/20250917153037_1crop.jpg') no-repeat center center fixed;
   background-color: black;
   background-size: auto 100%;
   font-family: 'Lobster Two';
@@ -78,6 +78,7 @@ title {
 content: url('https://raw.githubusercontent.com/Maegsara/Liodn/refs/heads/main/tpride.png');
 width: 40px;
 }
+
 
 
 
