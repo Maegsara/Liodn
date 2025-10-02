@@ -92,8 +92,9 @@ width: 100px;
 	height: 400px;
 	border: 2px solid black;
 	background: #ff0000;
-    background: linear-gradient(153deg,rgba(255, 0, 0, 1) 0%, rgba(255, 191, 0, 1) 15%, rgba(141, 252, 14, 1) 30%, rgba(27, 246, 173, 1) 45%, rgba(86, 229, 239, 1) 60%, rgba(218, 149, 226, 1) 75%, rgba(255, 0, 242, 1) 90%, rgba(237, 83, 198, 1) 100%);
+    background: linear-gradient(153deg,rgba(255, 0, 0, 0.75) 0%, rgba(255, 191, 0, 0.75) 15%, rgba(141, 252, 14, 0.75) 30%, rgba(27, 246, 173, 0.75) 45%, rgba(86, 229, 239, 0.75) 60%, rgba(218, 149, 226, 0.75) 75%, rgba(255, 0, 242, 0.75) 90%, rgba(237, 83, 198, 0.75) 100%);
 }
+
 
 
 
