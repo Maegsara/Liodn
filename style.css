@@ -80,29 +80,8 @@ content: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d6YXZsN2xva2Fm
 width: 100px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.boxxy{
+	width: 400px;
+	height: 300px;
+	border: 2px solid black;
+}
