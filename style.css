@@ -4,7 +4,6 @@ body {
   /* background: url('https://images.pexels.com/photos/14681530/pexels-photo-14681530.jpeg?_gl=1*1u6vafr*_ga*MjEzNTk3MjU2NC4xNzU3NjQzMDQy*_ga_8JE65Q40S6*czE3NTc2NDMwNDEkbzEkZzEkdDE3NTc2NDMzMTgkajYwJGwwJGgw') no-repeat center center fixed; */
   background: url('https://64.media.tumblr.com/ae555c592c1f9078f5c4911fa92ac631/dae176371d626737-9b/s1280x1920/ff421e246c274dad65506636a58ed26f8c1ec234.jpg') center center fixed;
   background-color: black;
-  background-position: 25%;
   background-size: auto 100%;
   font-family: 'Lobster Two';
   color: #000000;
@@ -96,6 +95,7 @@ width: 100px;
 	background: #ff0000;
     background: linear-gradient(153deg,rgba(255, 0, 0, 0.75) 0%, rgba(255, 191, 0, 0.75) 15%, rgba(141, 252, 14, 0.75) 30%, rgba(27, 246, 173, 0.75) 45%, rgba(86, 229, 239, 0.75) 60%, rgba(218, 149, 226, 0.75) 75%, rgba(255, 0, 242, 0.75) 90%, rgba(237, 83, 198, 0.75) 100%);
 }
+
 
 
 
