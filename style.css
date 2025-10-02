@@ -80,7 +80,7 @@ content: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d6YXZsN2xva2Fm
 width: 100px;
 }
 
-.navbar-default{
+.navbar{
 	background: #ff0000;
 	background: linear-gradient(153deg,rgba(255, 0, 0, 1) 0%, rgba(255, 191, 0, 1) 15%, rgba(141, 252, 14, 1) 30%, rgba(27, 246, 173, 1) 45%, rgba(86, 229, 239, 1) 60%, rgba(218, 149, 226, 1) 75%, rgba(255, 0, 242, 1) 90%, rgba(237, 83, 198, 1) 100%);
 	border-radius: 25px;
@@ -94,6 +94,7 @@ width: 100px;
 	background: #ff0000;
     background: linear-gradient(153deg,rgba(255, 0, 0, 1) 0%, rgba(255, 191, 0, 1) 15%, rgba(141, 252, 14, 1) 30%, rgba(27, 246, 173, 1) 45%, rgba(86, 229, 239, 1) 60%, rgba(218, 149, 226, 1) 75%, rgba(255, 0, 242, 1) 90%, rgba(237, 83, 198, 1) 100%);
 }
+
 
 
 
