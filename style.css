@@ -9,47 +9,6 @@ body {
   font-family: 'Lobster Two';
   color: #000000;
 }
-
-table {
-  border-collapse: collapse;
-  border: 2px solid rgb(140 140 140);
-  font-family: sans-serif;
-  font-size: 0.8rem;
-  letter-spacing: 1px;
-}
-
-caption {
-  caption-side: bottom;
-  padding: 10px;
-  font-weight: bold;
-}
-
-thead,
-tfoot {
-  background-color: rgb(228 240 245);
-}
-
-th,
-td {
-  border: 1px solid rgb(160 160 160);
-  padding: 8px 10px;
-}
-
-td:last-of-type {
-  text-align: center;
-}
-
-tbody > tr:nth-of-type(even) {
-  background-color: rgb(237 238 242);
-}
-
-tfoot th {
-  text-align: right;
-}
-
-tfoot td {
-  font-weight: bold;
-}
 	
 /*-=-=-=- RIGHT SIDE */
 
@@ -128,13 +87,15 @@ width: 100px;
 }
 
 .scrollBox{
+	display:grid;
 	border-radius: 5px;
-	width: 600px;
+	width: 100vw;
 	height: 400px;
 	border: 2px solid black;
 	background: #ff0000;
     background: linear-gradient(153deg,rgba(255, 0, 0, 0.75) 0%, rgba(255, 191, 0, 0.75) 15%, rgba(141, 252, 14, 0.75) 30%, rgba(27, 246, 173, 0.75) 45%, rgba(86, 229, 239, 0.75) 60%, rgba(218, 149, 226, 0.75) 75%, rgba(255, 0, 242, 0.75) 90%, rgba(237, 83, 198, 0.75) 100%);
 }
+
 
 
 
