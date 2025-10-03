@@ -97,13 +97,16 @@ width: 100px;
 
 .itemA{
 	grid-column: 1;
-	grid-row: 1/2;
+	grid-row-start: 1;
+	grid-row-end:2;
 }
 
 .itemB{
 	grid-column: 2;
-	grid-row: 1/2;
+	grid-row-start: 1;
+	grid-row-end:2;
 }
+
 
 
 
